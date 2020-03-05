@@ -20,7 +20,10 @@
 
 ## FAQ
 <details><summary> 1. how did the earing get in his shoebox? </summary> 
-<p> most likely the girl put it there after the bar </p> 
+
+**00:19:34**
+most likely the girl put it there after the bar 
+
 </details>
 
 <details><summary> 2. How come he decided to use hammer? </summary>
