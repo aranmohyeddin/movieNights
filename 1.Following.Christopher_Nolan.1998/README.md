@@ -103,13 +103,15 @@
   Don't know the answer
 </details>
 
-## Plot holes
+## Plot holes/Bugs
 
 ### 1. Why does Blonde forget about her earring?
 How come blonde does not give a fuck and easily let go and never asks again when Cobb
 doesn't tell her where he put her earring at **00:48:35**? There is no reason for
 Cobb to not tell her and teasing is not acceptible for a long period since it's a
 valuable item.
+
+### 2. In sequence timeline, 14 and 15 are switched.
 
 ## Interesting hints
 
