@@ -2,7 +2,12 @@
 
 * [Review](#review)
 * [FAQ](#faq)
+    - [1. how did the earing get in Bill's shoebox?](#1-how-did-the-earing-get-in-bills-shoebox)
+    - [2. How come he decided to use hammer?](#2-how-come-he-decided-to-use-hammer)
+    - [3. Why did blonde insist they go to Bill's house?](#3-why-did-blonde-insist-they-go-to-bills-house)
+    - [4. What does Cobb tell Bill in the final phone-call?](#4-what-does-cobb-tell-bill-in-the-final-phone-call)
 * [Plot holes](#plot-holes)
+    - [1. Why does Blonde forget about her earring?](#2-why-does-blonde-forget-about-her-earring)
 * [Interesting hints](#interesting-hints)
 * [Sequence Timeline](#sequence-timeline)
 * [Interesting philosophical dialogues](#interesting-philosophical-dialogues)
@@ -10,6 +15,7 @@
     - [2. Take it away, show them what they had (00:13:24)](#2-take-it-away-show-them-what-they-had-001324)
     - [3. Burglary is about entering someone's life (00:14:50)](#3-burglary-is-about-entering-someones-life-001450)
 * [I was wondering...](#i-was-wondering)
+    - [1. If you were the police, how could you have found out the truth?](#1-if-you-were-the-police-how-could-you-have-found-out-the-truth)
 * [Trivia](#trivia)
 
 ## Review
@@ -32,9 +38,8 @@
 
 ## FAQ
 
-1. how did the earing get in Bill's shoebox? 
-<details>
-  <summary>Show answer</summary>
+### 1. how did the earing get in Bill's shoebox? 
+<details><summary>Show answer</summary>
 
   * Of course Bill did not take it because he did not find it at **00:27:52** or later.
   * The earring was put there to pin the killing of Blonde on Bill. So it couldn't have been
@@ -49,61 +54,62 @@
   backup his story.
 </details>
 
-2. How come he decided to use hammer? 
+### 2. How come he decided to use hammer? 
 <details><summary>Show answer</summary> 
 
-**1. 00:22:17**
-> Surprisingly enough, I thought you might be able to give me some advice.
+  **1. 00:22:17**
+  > Surprisingly enough, I thought you might be able to give me some advice.
 
-> \- Steel whip. Nunchucks, they're all right. Tools are good, sharpened screwdriver, hammer, chisel
+  > \- Steel whip. Nunchucks, they're all right. Tools are good, sharpened screwdriver, hammer, chisel
 
-> \- "Hammer"?
+  > \- "Hammer"?
 
-> \- Yeah. Medium size. Good rubber grip. It's very nasty. If you get a claw hammer, you can pry doors with it. Slip it into the back of your waistband, you're set.
+  > \- Yeah. Medium size. Good rubber grip. It's very nasty. If you get a claw hammer, you can pry doors with it. Slip it into the back of your waistband, you're set.
 
-**2. 00:34:31**
+  **2. 00:34:31**
 
-there were a couple of hammers in the old house, influencing bill's sub-conscious
+  there were a couple of hammers in the old house, influencing bill's sub-conscious
 
-**3. 00:36:20**
+  **3. 00:36:20**
 
-The blonde tells him the story of the bald killing someone using hammer 
+  The blonde tells him the story of the bald killing someone using hammer 
 
-> They didn't like this very much,
-so they got a hammer.
-> They held him down, and they smashed every single one of his fingers.
-> And then they smashed his skull.
+  > They didn't like this very much,
+  so they got a hammer.
+  > They held him down, and they smashed every single one of his fingers.
+  > And then they smashed his skull.
 
-Please note that she did not have to tell him these at all. If she said it, she meant to
-say it. She probably was trying to put it in his sub-conscious.
-
+  Please note that she did not have to tell him these at all. If she said it, she meant to
+  say it. She probably was trying to put it in his sub-conscious.
 </details>
 
-3. Why did blonde insist they go to Bill's house? 
+### 3. Why did blonde insist they go to Bill's house? 
 <details><summary>Show answer</summary> 
 
-**00:20:27**
-> So why, when you agreed to have a drink with me, did we have to come here?
+  **00:20:27**
+  > So why, when you agreed to have a drink with me, did we have to come here?
 
-> \- He still gets jealous, and... I didn't feel like going back to my place. I got burgled yesterday.
-
+  > \- He still gets jealous, and... I didn't feel like going back to my place. I got burgled yesterday.
 </details>
 
-<details><summary> 3. What does Cobb tell Bill in the final phone-call? </summary> 
+### 4. What does Cobb tell Bill in the final phone-call? 
+<details><summary>Show answer</summary> 
 
-**00:59:52**
-> I've got it. I've got to drop off the fucking money first. 
-> Money. Bundles of fucking money. Nothing. Nothing. "Okay"?
-> I'll -- I'll be around soon.
-
+  **00:59:52**
+  > I've got it. I've got to drop off the fucking money first. 
+  > Money. Bundles of fucking money. Nothing. Nothing. "Okay"?
+  > I'll -- I'll be around soon.
+  
+  Don't know the answer
 </details>
 
 ## Plot holes
 
-2. How come blonde does not give a fuck and easily let go and never asks again when Cobb
-   doesn't tell her where he put her earring at **00:48:35**? There is no reason for
-   Cobb to not tell her and teasing is not acceptible for a long period since it's a
-   valuable item.
+### 1. Why does Blonde forget about her earring?
+How come blonde does not give a fuck and easily let go and never asks again when Cobb
+doesn't tell her where he put her earring at **00:48:35**? There is no reason for
+Cobb to not tell her and teasing is not acceptible for a long period since it's a
+valuable item.
 
 ## Interesting hints
 
@@ -176,7 +182,8 @@ Think I'll just give them something to chat about.
 
 ## I was wondering...
 
-<details><summary> 1. If you were the police, how could you have found out the truth? </summary>
+### 1. If you were the police, how could you have found out the truth? 
+<details><summary>Show answer</summary>
 
 **1.** One possible trace would be that the random girl who was cheating on her boyfriend saw
 them in the restaurant and saw that Cobb gave the card to Bill and he signed it and paid
@@ -196,7 +203,6 @@ the incident was goin to happen.
 
 ## Trivia
 
-**00:43:56** There is a picture from "The Shining" on his wall :D
-
-The final scene at **01:07:48** is the same place as **00:02:49**.
-Interestingly enough that early scene is exactly where Bill is saying [1. Indivuduals vs the crowd (00:02:41)](#1-indivuduals-vs-the-crowd-000241)
+* **00:43:56** There is a picture from "The Shining" on his wall :D
+* The final scene at **01:07:48** is the same place as **00:02:49**. 
+  Interestingly enough, that early scene is exactly where Bill is saying [1. Indivuduals vs the crowd (00:02:41)](#1-indivuduals-vs-the-crowd-000241)
