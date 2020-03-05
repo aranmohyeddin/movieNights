@@ -24,7 +24,7 @@
 </details>
 
 <details><summary> 2. How come he decided to use hammer? </summary>
-<p>
+<p> The blonde tells him the story of the bald killing someone using hammer </p> 
 
 **00:22:17**
 > Surprisingly enough, I thought you might be able to give me some advice.
