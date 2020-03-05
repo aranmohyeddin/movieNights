@@ -46,12 +46,12 @@ there were a couple of hammers in the old house, influencing bill's sub-consciou
 
 The blonde tells him the story of the bald killing someone using hammer </p> 
 
-> \-They didn't like this very much,
+> They didn't like this very much,
 so they got a hammer.
 
-> \-They held him down, and they smashed every single one of his fingers.
+> They held him down, and they smashed every single one of his fingers.
 
-> \-And then they smashed his skull.
+> And then they smashed his skull.
 
 
 
