@@ -40,6 +40,7 @@ there were a couple of hammers in the old house, influencing bill's sub-consciou
 </p>
 
 **00:36:45**
+
 The blonde tells him the story of the bald killing someone using hammer </p> 
 
 </details>
