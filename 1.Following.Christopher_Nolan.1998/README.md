@@ -31,10 +31,10 @@
 * Each person is in control of the events in their story, first Cobb, then Blonde, and
     finally the Bald guy. The bald guy is controlling everything through Cobb, but Cobb
     makes it clear that the bald guy is micromanaging everything through saying 
-    > **01:05:04** The old man was very specific about how I should do things. 
+    > Cobb: **01:05:04** The old man was very specific about how I should do things. 
 
     and then,
-    > He was very precise about exactly how and where I should take care of things. Something about a bloodstained carpet... that you've got stashed away to back up your story...
+    > Cobb: He was very precise about exactly how and where I should take care of things. Something about a bloodstained carpet... that you've got stashed away to back up your story...
 
 ## FAQ
 
@@ -61,25 +61,27 @@
   it to be found in Bill's house. We know that he suspects Bill would do that because
 
   **00:48:27**
-  > You may even get most of it back, if you're lucky.
+  > Cobb: You may even get most of it back, if you're lucky.
 
   And later,
-  > So does that mean you'll tell me where you hid my earring?
-
-  > \- No. And I wouldn't wait for your panties either. He's too embarrassed to give those back to you.
+  > Blonde: So does that mean you'll tell me where you hid my earring?
+  >
+  > Cobb: No. And I wouldn't wait for your panties either. He's too embarrassed to give those back to you.
 </details>
 
 ### 3. How come he decided to use hammer? 
 <details><summary>Show answer</summary> 
 
   **1. 00:22:17**
-  > Surprisingly enough, I thought you might be able to give me some advice.
-
-  > \- Steel whip. Nunchucks, they're all right. Tools are good, sharpened screwdriver, hammer, chisel
-
-  > \- "Hammer"?
-
-  > \- Yeah. Medium size. Good rubber grip. It's very nasty. If you get a claw hammer, you can pry doors with it. Slip it into the back of your waistband, you're set.
+  > Bill: Surprisingly enough, I thought you might be able to give me some advice.
+  >
+  > Cobb: Steel whip. Nunchucks, they're all right. Tools are good, sharpened screwdriver, 
+  > hammer, chisel
+  >
+  > Bill: "Hammer"?
+  >
+  > Cobb: Yeah. Medium size. Good rubber grip. It's very nasty. If you get a claw hammer, 
+  > you can pry doors with it. Slip it into the back of your waistband, you're set.
 
   **2. 00:34:31**
 
@@ -89,32 +91,29 @@
 
   The blonde tells him the story of the bald killing someone using hammer 
 
-  > They didn't like this very much,
-  so they got a hammer.
-  > They held him down, and they smashed every single one of his fingers.
-  > And then they smashed his skull.
+  > Blonde: They didn't like this very much, so they got a hammer. They held him down, 
+  > and they smashed every single one of his fingers. And then they smashed his skull.
 
   Please note that she did not have to tell him these at all. If she said it, she meant to
   say it. She probably was trying to put it in his sub-conscious.
 </details>
 
 ### 4. Why did blonde insist they go to Bill's house? 
-<details><summary>Show answer</summary> 
+<details><summary>Show answer</summary>
 
   **00:20:27**
-  > So why, when you agreed to have a drink with me, did we have to come here?
-
-  > \- He still gets jealous, and... I didn't feel like going back to my place. I got burgled yesterday.
+  > Bill: So why, when you agreed to have a drink with me, did we have to come here?
+  > 
+  > Blonde: He still gets jealous, and... I didn't feel like going back to my place. I got burgled yesterday.
 </details>
 
 ### 5. What does Cobb tell Bill in the final phone-call? 
-<details><summary>Show answer</summary> 
+<details><summary>Show answer</summary>
 
   **00:59:52**
-  > I've got it. I've got to drop off the fucking money first. 
-  > Money. Bundles of fucking money. Nothing. Nothing. "Okay"?
-  > I'll -- I'll be around soon.
-  
+  > Bill: I've got it. I've got to drop off the fucking money first. Money. Bundles of 
+  > fucking money. Nothing. Nothing. "Okay"? I'll, I'll be around soon.
+
   Don't know the answer
 </details>
 
@@ -156,46 +155,44 @@ valuable item.
 ## Interesting philosophical dialogues
 
 ### 1. Indivuduals vs the crowd (00:02:41)
-> How can I explain?
-You ever...
-been to a football match, just let your eyes...
-go over, drift across a crowd of people... and they slowly stop and fix on one person...
-and all of a sudden that person isn't part of the crowd anymore?
-They've become an individual, just like that.
+> Bill: How can I explain? You ever... been to a football match, just let your eyes...
+> go over, drift across a crowd of people... and they slowly stop and fix on one person...
+> and all of a sudden that person isn't part of the crowd anymore? They've become an 
+> individual, just like that.
 * https://en.wikipedia.org/wiki/Macrocosm_and_microcosm
 * https://en.wikipedia.org/wiki/Michel_Foucault
 * https://en.wikipedia.org/wiki/Holism
 
 ### 2. Take it away, show them what they had (00:13:24)
-> It's like a diary. They hide it, but actually they want someone to see it.
+> Cobb: It's like a diary. They hide it, but actually they want someone to see it.
 > That's what I do. Concealment, display, flip sides of the same coin.
-This way they know that someone's seen it.
-That's what it's all about, interrupting someone's life...
-making them see all the things they took for granted.
-Like when they go back and buy all this stuff from the shelves...
-with the insurance money, they'll have to think...
-for the first time in a long time...
-why they wanted all this stuff, what it's for.
-You take it away... and show them what they had.
+> This way they know that someone's seen it.
+> That's what it's all about, interrupting someone's life...
+> making them see all the things they took for granted.
+> Like when they go back and buy all this stuff from the shelves...
+> with the insurance money, they'll have to think...
+> for the first time in a long time...
+> why they wanted all this stuff, what it's for.
+> You take it away... and show them what they had.
 
-> Saucy, eh? (shows a pair of panties)
-Found these in the last flat.
-Think I'll just give them something to chat about.
-
-> \- Why would you do that?
-
-> \- She'll find them in his trousers and ask him what he's been doing.
-
-> \- Yeah, but why would you want to fuck up their relationship?
-
-> \- Don't you listen? You take it away... and show them what they had.
+> Cobb: Saucy, eh? (shows a pair of panties)
+> Found these in the last flat.
+> Think I'll just give them something to chat about.
+>
+> Bill: Why would you do that?
+>
+> Cobb: She'll find them in his trousers and ask him what he's been doing.
+>
+> Bill: Yeah, but why would you want to fuck up their relationship?
+>
+> Cobb: Don't you listen? You take it away... and show them what they had.
 
 ### 3. Burglary is about entering someone's life (00:14:50)
-> I thought the whole point of burglary was taking things.
-
-> \- No, this is the point, breaking in, entering someone's life... 
-> finding out who they really are. I mean, don't you just feel it?
-> Standing here... drinking their wine, people we'll never even meet.
+> Bill: I thought the whole point of burglary was taking things.
+>
+> Cobb: No, this is the point, breaking in, entering someone's life... finding out who 
+> they really are. I mean, don't you just feel it? Standing here... drinking their wine, 
+> people we'll never even meet.
 
 ## I was wondering...
 
