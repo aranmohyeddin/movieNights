@@ -38,7 +38,7 @@
 
 ## FAQ
 
-### 1. how did the earing get in Bill's shoebox? 
+### 1. how did the earring get in Bill's shoebox? 
 <details><summary>Show answer</summary>
 
   * Of course Bill did not take it because he did not find it at **00:27:52** or later.
@@ -54,7 +54,22 @@
   backup his story.
 </details>
 
-### 2. How come he decided to use hammer? 
+### 2. Why didn't Cobb simply give Bill the earring in the first place to take it home?
+<details><summary>Show answer</summary>
+
+  Because if he did that, Bill might have given it back to the Blonde, but Cobb needed
+  it to be found in Bill's house. We know that he suspects Bill would do that because
+
+  **00:48:27**
+  > You may even get most of it back, if you're lucky.
+
+  And later,
+  > So does that mean you'll tell me where you hid my earring?
+
+  > \- No. And I wouldn't wait for your panties either. He's too embarrassed to give those back to you.
+</details>
+
+### 3. How come he decided to use hammer? 
 <details><summary>Show answer</summary> 
 
   **1. 00:22:17**
@@ -83,7 +98,7 @@
   say it. She probably was trying to put it in his sub-conscious.
 </details>
 
-### 3. Why did blonde insist they go to Bill's house? 
+### 4. Why did blonde insist they go to Bill's house? 
 <details><summary>Show answer</summary> 
 
   **00:20:27**
@@ -92,7 +107,7 @@
   > \- He still gets jealous, and... I didn't feel like going back to my place. I got burgled yesterday.
 </details>
 
-### 4. What does Cobb tell Bill in the final phone-call? 
+### 5. What does Cobb tell Bill in the final phone-call? 
 <details><summary>Show answer</summary> 
 
   **00:59:52**
@@ -107,8 +122,8 @@
 
 ### 1. Why does Blonde forget about her earring?
 How come blonde does not give a fuck and easily let go and never asks again when Cobb
-doesn't tell her where he put her earring at **00:48:35**? There is no reason for
-Cobb to not tell her and teasing is not acceptible for a long period since it's a
+doesn't tell her where he put her earring at **00:48:35**? There is no excuse for
+Cobb to not tell her and teasing is not acceptable for a long period since it's a
 valuable item.
 
 ### 2. In sequence timeline, 14 and 15 are switched.
