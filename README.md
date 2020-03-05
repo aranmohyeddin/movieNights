@@ -1,2 +1,2 @@
-# movienights
-Repository for movienight session reviews
+# movieNights
+Repository for movieNights session reviews
