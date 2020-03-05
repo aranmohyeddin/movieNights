@@ -24,7 +24,6 @@
 </details>
 
 <details><summary> 2. How come he decided to use hammer? </summary>
-<p> The blonde tells him the story of the bald killing someone using hammer 00:36:45 </p> 
 
 **00:22:17**
 > Surprisingly enough, I thought you might be able to give me some advice.
@@ -39,6 +38,10 @@
 
 there were a couple of hammers in the old house, influencing bill's sub-conscious
 </p>
+
+**00:36:45**
+The blonde tells him the story of the bald killing someone using hammer </p> 
+
 </details>
 
 ## Interesting hints
