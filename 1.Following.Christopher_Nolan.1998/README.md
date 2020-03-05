@@ -130,9 +130,20 @@ Think I'll just give them something to chat about.
 
 ## I was wondering...
 <details><summary> 1. If you were the police, how could you have found out the truth? </summary>
-One possible trace would be that the random girl who was cheating on her boyfriend saw
+
+**1.** One possible trace would be that the random girl who was cheating on her boyfriend saw
 them in the restaurant and saw that Cobb gave the card to Bill and he signed it and paid
 the bill with it, and then it could be matched with the records of the restaurant that
 danielt lyoid paid the bill. But she might not want to risk her relationship.
+
+**2.** Bald guy didn't pay a dime to Cobb, he told Cobb to take the stolen money from Bill. 
+And then Bald would get back the money from insurance, but he was running illigal
+business, so he wouldn't normally report how much money he makes and has in his safe,
+but this time, since he knew he was gonna get stolen from, he might have become greedy
+and reported the money correctly, because Cobb took the money so he couldn't prove how
+much money was in the safe. Now the police could have checked tax records and discovered
+that his earning had a huge jump prior to the incident and figure that he probably knew
+the incident was goin to happen.
+
 </details>
 
