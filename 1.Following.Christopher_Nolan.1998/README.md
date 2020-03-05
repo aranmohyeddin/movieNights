@@ -1,5 +1,17 @@
 # Following - Christopher Nolan(1998)
 
+* [Review](#review)
+* [FAQ](#faq)
+* [Plot holes](#plot-holes)
+* [Interesting hints](#interesting-hints)
+* [Sequence Timeline](#sequence-timeline)
+* [Interesting philosophical dialogues](#interesting-philosophical-dialogues)
+    - [1. Indivuduals vs the crowd (00:02:41)](#1-indivuduals-vs-the-crowd-000241)
+    - [2. Take it away, show them what they had (00:13:24)](#2-take-it-away-show-them-what-they-had-001324)
+    - [3. Burglary is about entering someone's life (00:14:50)](#3-burglary-is-about-entering-someones-life-001450)
+* [I was wondering...](#i-was-wondering)
+* [Trivia](#trivia)
+
 ## Review
 
 * We have three stories, 1. bill-cobb, 2. bill-blonde, 3. bill-bald that happen
@@ -20,14 +32,25 @@
 
 ## FAQ
 
-<details><summary> 1. how did the earing get in his shoebox? </summary> 
+1. how did the earing get in Bill's shoebox? 
+<details>
+  <summary>Show answer</summary>
 
-**00:19:34**
-most likely the girl put it there after the bar 
-
+  * Of course Bill did not take it because he did not find it at **00:27:52** or later.
+  * The earring was put there to pin the killing of Blonde on Bill. So it couldn't have been
+  blonde who hid it either.
+  * So Cobb must have done it, but we see at **00:11:23** that Cobb fails to pick the lock
+  and also later at **00:29:48** we see that he breaks the door, so he definately can't
+  pick a lock. Therefore, if he wanted to break in Bill's house he should have broken the
+  door and so Bill would have noticed. So it is only possible that he did it at the end of
+  the story, supposedly when he takes the money from his house, but then the police would
+  suspect someone else must have been involved who broke his door and took the money. But
+  they could also think that he hid the money somewhere else and broke his own door to 
+  backup his story.
 </details>
 
-<details><summary> 2. How come he decided to use hammer? </summary>
+2. How come he decided to use hammer? 
+<details><summary>Show answer</summary> 
 
 **1. 00:22:17**
 > Surprisingly enough, I thought you might be able to give me some advice.
@@ -56,8 +79,31 @@ say it. She probably was trying to put it in his sub-conscious.
 
 </details>
 
+3. Why did blonde insist they go to Bill's house? 
+<details><summary>Show answer</summary> 
+
+**00:20:27**
+> So why, when you agreed to have a drink with me, did we have to come here?
+
+> \- He still gets jealous, and... I didn't feel like going back to my place. I got burgled yesterday.
+
+</details>
+
+<details><summary> 3. What does Cobb tell Bill in the final phone-call? </summary> 
+
+**00:59:52**
+> I've got it. I've got to drop off the fucking money first. 
+> Money. Bundles of fucking money. Nothing. Nothing. "Okay"?
+> I'll -- I'll be around soon.
+
+</details>
+
 ## Plot holes
 
+2. How come blonde does not give a fuck and easily let go and never asks again when Cobb
+   doesn't tell her where he put her earring at **00:48:35**? There is no reason for
+   Cobb to not tell her and teasing is not acceptible for a long period since it's a
+   valuable item.
 
 ## Interesting hints
 
@@ -75,7 +121,7 @@ say it. She probably was trying to put it in his sub-conscious.
 5- bill chat with blonde in cafe (introduces himself as daniel lyoid) 5.2 takes blonde to his house (blonde tells bill bald is dangerous) (wooden statue broken)
 8- go to blonde's house first time (bald leaves blonde's house)
 11- dating blonde in a bar knows bald is dangerous (pays with daniel lyoid's CC)
-15- appologizing from blonde at blonde's house 15.2 post shave, hasn't sold, rooftop, suggest stealing from bald, gets beaten, post sex 15.3 cobb with blonde post beaten up, post sex
+15- appologizing from blonde at blonde's house 15.2 post shave, hasn't sold, rooftop, suggest stealing from bald, gets beaten, post sex 15.3 cobb with blonde (blonde asks where is my earring but Cobb doesn't tell)
 ---
 3- just got beaten at the roof 3.2 follow bald leave bar
 6- follow bald come back in 6.2 call cobb for advice     *[openning: begin mission prep (wearing gloves)]
@@ -86,7 +132,7 @@ say it. She probably was trying to put it in his sub-conscious.
 
 ## Interesting philosophical dialogues
 
-**1. 00:02:41**
+### 1. Indivuduals vs the crowd (00:02:41)
 > How can I explain?
 You ever...
 been to a football match, just let your eyes...
@@ -97,7 +143,7 @@ They've become an individual, just like that.
 * https://en.wikipedia.org/wiki/Michel_Foucault
 * https://en.wikipedia.org/wiki/Holism
 
-**2. 00:13:24**
+### 2. Take it away, show them what they had (00:13:24)
 > It's like a diary. They hide it, but actually they want someone to see it.
 > That's what I do. Concealment, display, flip sides of the same coin.
 This way they know that someone's seen it.
@@ -121,7 +167,7 @@ Think I'll just give them something to chat about.
 
 > \- Don't you listen? You take it away... and show them what they had.
 
-**3. 00:14:50**
+### 3. Burglary is about entering someone's life (00:14:50)
 > I thought the whole point of burglary was taking things.
 
 > \- No, this is the point, breaking in, entering someone's life... 
@@ -129,6 +175,7 @@ Think I'll just give them something to chat about.
 > Standing here... drinking their wine, people we'll never even meet.
 
 ## I was wondering...
+
 <details><summary> 1. If you were the police, how could you have found out the truth? </summary>
 
 **1.** One possible trace would be that the random girl who was cheating on her boyfriend saw
@@ -147,3 +194,9 @@ the incident was goin to happen.
 
 </details>
 
+## Trivia
+
+**00:43:56** There is a picture from "The Shining" on his wall :D
+
+The final scene at **01:07:48** is the same place as **00:02:49**.
+Interestingly enough that early scene is exactly where Bill is saying [1. Indivuduals vs the crowd (00:02:41)](#1-indivuduals-vs-the-crowd-000241)
