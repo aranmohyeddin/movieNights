@@ -19,11 +19,11 @@
     > He was very precise about exactly how and where I should take care of things. Something about a bloodstained carpet... that you've got stashed away to back up your story...
 
 ## FAQ
-<details><summary> **1. how did the earing get in his shoebox?** </summary> 
+<details><summary> 1. how did the earing get in his shoebox? </summary> 
 <p> most likely the girl put it there after the bar </p> 
 </details>
 
-<details><summary> **2. How come he decided to use hammer?** </summary>
+<details><summary> 2. How come he decided to use hammer? </summary>
 <p>
 
 **00:22:17**
@@ -111,7 +111,7 @@ Think I'll just give them something to chat about.
 > Standing here... drinking their wine, people we'll never even meet.
 
 ## I was wondering...
-<details><summary> **1. If you were the police, how could you have found out the truth?** </summary>
+<details><summary> 1. If you were the police, how could you have found out the truth? </summary>
 <p>
 One possible trace would be that the random girl who was cheating on her boyfriend saw
 them in the restaurant and saw that Cobb gave the card to Bill and he signed it and paid
