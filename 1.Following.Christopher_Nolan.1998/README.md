@@ -19,6 +19,7 @@
     > He was very precise about exactly how and where I should take care of things. Something about a bloodstained carpet... that you've got stashed away to back up your story...
 
 ## FAQ
+
 <details><summary> 1. how did the earing get in his shoebox? </summary> 
 
 **00:19:34**
@@ -28,7 +29,7 @@ most likely the girl put it there after the bar
 
 <details><summary> 2. How come he decided to use hammer? </summary>
 
-**00:22:17**
+**1. 00:22:17**
 > Surprisingly enough, I thought you might be able to give me some advice.
 
 > \- Steel whip. Nunchucks, they're all right. Tools are good, sharpened screwdriver, hammer, chisel
@@ -37,25 +38,26 @@ most likely the girl put it there after the bar
 
 > \- Yeah. Medium size. Good rubber grip. It's very nasty. If you get a claw hammer, you can pry doors with it. Slip it into the back of your waistband, you're set.
 
-**00:34:31**
+**2. 00:34:31**
 
 there were a couple of hammers in the old house, influencing bill's sub-conscious
-</p>
 
-**00:36:20**
+**3. 00:36:20**
 
-The blonde tells him the story of the bald killing someone using hammer </p> 
+The blonde tells him the story of the bald killing someone using hammer 
 
 > They didn't like this very much,
 so they got a hammer.
 > They held him down, and they smashed every single one of his fingers.
 > And then they smashed his skull.
 
-
-
-
+Please note that she did not have to tell him these at all. If she said it, she meant to
+say it. She probably was trying to put it in his sub-conscious.
 
 </details>
+
+## Plot holes
+
 
 ## Interesting hints
 
@@ -128,11 +130,9 @@ Think I'll just give them something to chat about.
 
 ## I was wondering...
 <details><summary> 1. If you were the police, how could you have found out the truth? </summary>
-<p>
 One possible trace would be that the random girl who was cheating on her boyfriend saw
 them in the restaurant and saw that Cobb gave the card to Bill and he signed it and paid
 the bill with it, and then it could be matched with the records of the restaurant that
 danielt lyoid paid the bill. But she might not want to risk her relationship.
-</p>
 </details>
 
