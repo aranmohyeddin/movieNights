@@ -224,4 +224,51 @@ the incident was goin to happen.
 * (00:43:56) There is a picture from "The Shining" on his wall :D
 * The final scene at (01:07:48) is the same place as (00:02:49). 
   Interestingly enough, that early scene is exactly where Bill is saying [1. Indivuduals vs the crowd (00:02:41)](#1-indivuduals-vs-the-crowd-000241)
+  
+  ## Subjective reviews
+
+### 1. Find something to chat about.
+<details><summary>Show review</summary>
+
+  > **Bill:** I started shadowing.
+  >
+  > **Officer:** "Shadowing"?
+  >
+  > **Bill:** Shadowing. Following. I started to follow people.
+  >
+  > **Officer:** Who?
+  >
+  > **Bill:** Anyone at first. I mean, that was the whole point. Somebody at random. Somebody who
+  > didn't know who I was.
+  >
+  > **Officer:** And then?
+  >
+  > **Bill:** And then... Nothing.
+
+  He has no purpose than wandering in the city. Looking at the people. Joining them.
+  Becoming part of the crowd. Continuing to wander until he finds something to write about.
+  To put it better, to find something to chat about. He is the face of the modern city.
+  A city of crowds with no known purpose. He becomes one of the people leaving in the
+  morning to grab a coffee and then go to work. He then becomes one of the people
+  taking a break from work to have a meal at the café around the corner. Bill is it?
+  Or D. Lloyd? Neither. He is a flâneur. He wanders the city and becomes whoever he desires.
+
+  > “The crowd is his element, as the air is that of birds and water of fishes.
+  > His passion and his profession are to become one flesh with the crowd.
+  > For the perfect flâneur, for the passionate spectator, it is an immense joy to set
+  > up house in the heart of the multitude, amid the ebb and flow of movement, in the
+  > midst of the fugitive and the infinite. To be away from home and yet to feel oneself
+  > everywhere at home.”  
+
+  Charles Baudelaire, "The Painter of Modern Life. ", (New York: Da Capo Press, 1964). Orig. published in Le Figaro, in 1863.
+
+  He finds a type of crowd and chooses an individual and sticks to him. The innocent
+  creature doesn’t know that the one he is shadowing is a shadower himself and is not
+  part of the crowd he is pretending to be. The guy he found; time called upon him to
+  free himself of all the historical bonds in morals.
+
+  Although the movie takes advantage of the potential of the modern city to become
+  different characters, it also indicates a very rare experience of the man throughout
+  the history. Becoming a flâneur. To be away from home and yet to feel oneself everywhere at home.
+</details>
 
