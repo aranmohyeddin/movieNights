@@ -91,6 +91,15 @@
 
   there were a couple of hammers in the old house, influencing Bill's sub-conscious
 
+  **3. 00:36:20**
+
+  The Blonde tells him the story of the Bald killing someone using hammer 
+
+  > **Blonde:** They didn't like this very much, so they got a hammer. They held him down, 
+  > and they smashed every single one of his fingers. And then they smashed his skull.
+
+  Please note that she did not have to tell him these at all. If she said it, she meant to
+  say it. She probably was trying to put it in his sub-conscious.
 </details>
 
 ### 4. Why did Blonde insist they go to Bill's house? 
@@ -123,17 +132,6 @@ valuable item.
 ## Interesting hints
 
 > (00:03:07) **Officer:** So you followed women?
-
-
-  **3. 00:36:20**
-
-  The Blonde tells him the story of the Bald killing someone using hammer 
-
-  > **Blonde:** They didn't like this very much, so they got a hammer. They held him down, 
-  > and they smashed every single one of his fingers. And then they smashed his skull.
-
-  Please note that she did not have to tell him these at all. If she said it, she meant to
-  say it. She probably was trying to put it in his sub-conscious.
 
 ## Sequence Timeline
 ```
