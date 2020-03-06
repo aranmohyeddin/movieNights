@@ -129,6 +129,8 @@ valuable item.
 
 ### 2. In sequence timeline, 14 and 15 are switched.
 
+### 3. Why would Bill bring the bloody hammer to the Blonde's house and leave it there at 01:03:00
+
 ## Interesting hints
 
 > (00:03:07) **Officer:** So you followed women?
