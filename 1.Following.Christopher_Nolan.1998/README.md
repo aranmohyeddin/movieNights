@@ -124,6 +124,17 @@ valuable item.
 
 > (00:03:07) **Officer:** So you followed women?
 
+
+  **3. 00:36:20**
+
+  The Blonde tells him the story of the Bald killing someone using hammer 
+
+  > **Blonde:** They didn't like this very much, so they got a hammer. They held him down, 
+  > and they smashed every single one of his fingers. And then they smashed his skull.
+
+  Please note that she did not have to tell him these at all. If she said it, she meant to
+  say it. She probably was trying to put it in his sub-conscious.
+
 ## Sequence Timeline
 ```
 1- follow Cobb different streets
